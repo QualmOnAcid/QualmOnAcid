@@ -1,16 +1,25 @@
-### Hi there 👋
+<div align='center'>
+<h2>🍣 Hi there, I'm Yuhki.</h2>
+  
+<p>I'm a 15-year-old student from Germany who is currently studying health and nutrition.</p>
+  
+<h2>Experienced with</h2>
+  
+<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  
+<p> <img alt="Discord" src="https://img.shields.io/static/v1?style=for-the-badge&message=Qualm%233046&color=5865F2&logo=Discord&logoColor=FFFFFF&label="/> </p>
+<p> <img src="https://cdn.discordapp.com/attachments/536501170353602627/946827490020720650/gojo.gif"/> </p>
+  
+<hr>
 
-<!--
-**QualmOnAcid/QualmOnAcid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Qualm's GitHub stats](https://github-readme-stats.vercel.app/api?username=QualmOnAcid&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QualmOnAcid&theme=dracula)
+  
+<hr>  
 
-Here are some ideas to get you started:
+<h1>What I'm currently doing</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Discord Presence](https://lanyard.cnrad.dev/api/360130213507760139)](https://discord.com/users/360130213507760139)
+  
+</div>
