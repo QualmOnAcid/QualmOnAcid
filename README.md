@@ -9,7 +9,6 @@
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   
 <p> <img alt="Discord" src="https://img.shields.io/static/v1?style=for-the-badge&message=Qualm%233046&color=5865F2&logo=Discord&logoColor=FFFFFF&label="/> </p>
-<p> <img src="https://cdn.discordapp.com/attachments/536501170353602627/946827490020720650/gojo.gif"/> </p>
   
 <hr>
 
