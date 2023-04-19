@@ -1,7 +1,7 @@
 <div align='center'>
-<h2>🍣 Hi there, I'm Yuhki.</h2>
+<h2>🍣 Hi there, I'm Qualm.</h2>
   
-<p>I'm a 15-year-old student from Germany who is currently studying health and nutrition.</p>
+<p>14 year old student in germany</p>
   
 <h2>Experienced with</h2>
   
@@ -16,10 +16,6 @@
 ![Qualm's GitHub stats](https://github-readme-stats.vercel.app/api?username=QualmOnAcid&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QualmOnAcid&theme=dracula)
   
-<hr>  
-
-<h1>What I'm currently doing</h1>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/360130213507760139)](https://discord.com/users/360130213507760139)
+<hr>
   
 </div>
